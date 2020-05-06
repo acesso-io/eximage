@@ -3,7 +3,7 @@
 Este projeto visa facilitar a leitura, manipulação e verificação dos metadados de imagens capturada no Android, e oference os seguintes recursos:
 
  - Extração de dados exif da imagem
- - Extração da orientação no buffer de processamento/captura
+ - Informações de orientação (pelo buffer do preview e captura)
  - Conversão de Bitmap para JPEG
  - Rotacionar Bitmap
  - Espelhar Bitmap
