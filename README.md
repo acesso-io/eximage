@@ -33,17 +33,19 @@ allprojects {
 import br.com.acessodigital.eximage.Eximage;
 ```
 
-Pronto! O seu projeto já está pronto para o uso de nossa biblioteca.
+Pronto! 
+
+Você já consegue utilizar a nossa biblioteca.
 
 ## Utilização
 
-Todas os métodos pode ser acessados pela classe: 
+Todas os métodos podem ser acessados pela classe: 
 
 ```java
 br.com.acessodigital.eximage.Eximage
 ```
 
-Na mesma classe é possível obter:
+Onde temos acesso as seguintes operações:
  - Dados exif da imagem
  - Orientação
  - Conversão de Bitmap para JPEG
