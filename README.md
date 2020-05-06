@@ -7,7 +7,7 @@ Este projeto visa facilitar a leitura e manipulação de imagens capturadas pela
 - Android Studio - IDE oficial de desenvolvimento Google. Versão 9 ou superior
 - Maven Jitpack - Gerenciador de bibiotecas para a IDE.
 
-### Instalando
+### Instalação
 
 - Abra o arquivo build.gradle (Projeto) e adicione Jitpack manager em repositorios, seu código deve parecer com isto: 
 
