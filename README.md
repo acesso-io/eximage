@@ -27,10 +27,10 @@ allprojects {
  implementation 'com.github.acesso-io:eximage:1.0.0@aar'
 ```
 
-- Importe na sua classe de preferência para utilização.
+- Importe a classe
 
 ```java
-import br.com.acessodigital.eximage.exif.Exif;
+import br.com.acessodigital.eximage.Eximage;
 ```
 
 Pronto! O seu projeto já está pronto para o uso de nossa biblioteca.
