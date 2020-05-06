@@ -24,7 +24,7 @@ allprojects {
 - Em seguida, abra o arquivo build.gradle (App) e implemente nossa dependência em seu projeto: 
 
 ```
- implementation 'com.github.acesso-io:eximage:1.0.0@aar'
+ implementation 'com.github.acesso-io:eximage:1.0.8@aar'
 ```
 
 - Importe a classe
