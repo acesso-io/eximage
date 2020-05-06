@@ -9,7 +9,7 @@ Este projeto visa facilitar a leitura e manipulação de imagens capturadas pela
 
 ### Instalação
 
-- Abra o arquivo build.gradle (Projeto) e adicione Jitpack manager em repositorios, seu código deve parecer com isto: 
+Abra o arquivo build.gradle (Projeto) e adicione Jitpack manager em repositorios, seu código deve parecer com isto: 
 
 ```groovy
 allprojects {
@@ -21,13 +21,13 @@ allprojects {
 }
 ```
 
-- Em seguida, abra o arquivo build.gradle (App) e implemente nossa dependência em seu projeto: 
+Em seguida, abra o arquivo build.gradle (App) e implemente nossa dependência em seu projeto: 
 
 ```
  implementation 'com.github.acesso-io:eximage:1.0.8@aar'
 ```
 
-- Importe a classe
+Importe a classe
 
 ```java
 import br.com.acessodigital.eximage.Eximage;
