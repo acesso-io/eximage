@@ -11,6 +11,7 @@ Este projeto visa facilitar a leitura, manipulação e verificação dos metadad
  - Conversão de NV21 para JPEG
  - Conversão de YUV420  para NV21
 
+
 ### Pré requisitos
 
 - Android Studio - IDE oficial de desenvolvimento Google.
@@ -46,7 +47,7 @@ Pronto!
 
 Você já consegue utilizar a nossa biblioteca.
 
-## Utilização
+### Utilização
 
 Todos os métodos podem ser acessados pela classe: 
 
@@ -54,11 +55,12 @@ Todos os métodos podem ser acessados pela classe:
 br.com.acessodigital.eximage.Eximage
 ```
  
-## Versionamento
+### Versionamento
 
 Nós usamos [Github](https://github.com/) para versionamento e você pode acompanhar a evolução da biblioteca [aqui](https://github.com/acesso-io/eximage/releases). 
 
-## Autores
+
+### Autores
 
 * **Rafael Martins da Costa** - *Engenheiro de Software* - [GitHub](https://github.com/rafaelmartinsdacosta)
 
