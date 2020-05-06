@@ -65,4 +65,4 @@ Nós usamos [Github](https://github.com/) para versionar. Para as versões dispo
 Veja também nossa lista de [contribuidores](https://github.com/acesso-io/eximage/graphs/contributors) que participaram deste projeto.
 
 
-Feito com ♥ by !(https://home.acessodigital.com.br/acesso/images/logo2x.svg?v=YlI03suDehHrsUQqyVKIvyWU0xpxwuT_eIgCaDelMeY) [Visita nosso Site!](https://acesso.io)
+Feito com ♥ by ![Acesso Digital](https://home.acessodigital.com.br/acesso/images/logo2x.svg) [Visita nosso Site!](https://acesso.io)
