@@ -1,4 +1,4 @@
-# Eximage Android
+## :rocket: Sobre o nossa Biblioteca Eximage-Android
 
 Este projeto visa facilitar a leitura, manipulação e verificação dos metadados de imagens capturada no Android, e oference os seguintes recursos:
 
