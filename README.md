@@ -45,7 +45,7 @@ Todas os métodos podem ser acessados pela classe:
 br.com.acessodigital.eximage.Eximage
 ```
 
-Onde temos acesso as seguintes operações:
+Sendo possível recuperar os seguintes dados:
  - Dados exif da imagem
  - Orientação
  - Conversão de Bitmap para JPEG
