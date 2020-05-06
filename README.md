@@ -1,4 +1,4 @@
-## :rocket: Sobre o nossa Biblioteca Eximage-Android
+## :rocket: Sobre a nossa biblioteca Eximage (Android)
 
 Este projeto visa facilitar a leitura, manipulação e verificação dos metadados de imagens capturada no Android, e oference os seguintes recursos:
 
@@ -64,5 +64,5 @@ Nós usamos [Github](https://github.com/) para versionar. Para as versões dispo
 
 Veja também nossa lista de [contribuidores](https://github.com/acesso-io/eximage/graphs/contributors) que participaram deste projeto.
 
-
+###
 Feito com ♥ by Acesso Digital - [Visita nosso Site!](https://acesso.io)
