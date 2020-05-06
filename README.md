@@ -1,6 +1,16 @@
 # Eximage Android
 
-Este projeto visa facilitar a leitura e manipulação de imagens capturadas pela câmera do Android.
+Este projeto visa facilitar a leitura, manipulação e verificação dos metadados de imagens capturada no Android, e oference os seguintes recursos:
+
+ - Extração de dados exif da imagem
+ - Extração da orientação no buffer de processamento/captura
+ - Conversão de Bitmap para JPEG
+ - Rotacionar Bitmap
+ - Espelhar Bitmap
+ - Converter de YUV420 (formato nativo do buffer da câmera) para JPEG
+ - Converter de NV21 para JPEG
+ - Converter de YUV420  para NV21
+ - Rotacionar o YUV420 em 90, 180 e 270 graus
 
 ### Pré requisitos
 
@@ -45,14 +55,4 @@ Todas os métodos podem ser acessados pela classe:
 br.com.acessodigital.eximage.Eximage
 ```
 
-Sendo possível recuperar os seguintes dados:
- - Dados exif da imagem
- - Orientação
- - Conversão de Bitmap para JPEG
- - Rotacionar Bitmap
- - Espelhar Bitmap
- - Converter de YUV420 (formato nativo do buffer da câmera) para JPEG
- - Converter de NV21 para JPEG
- - Converter de YUV420  para NV21
- - Rotacionar o YUV420 em 90, 180 e 270 graus
  
