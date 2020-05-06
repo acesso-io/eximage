@@ -53,5 +53,16 @@ Todas os métodos podem ser acessados pela classe:
 ```java
 br.com.acessodigital.eximage.Eximage
 ```
-
  
+## Versionamento
+
+Nós usamos [Github](https://github.com/) para versionar. Para as versões disponíveis, veja as [tags do repositório](https://github.com/acesso-io/eximage/releases). 
+
+## Autores
+
+* **Rafael Martins da Costa** - *Engenheiro de Software* - [GitHub](https://github.com/rafaelmartinsdacosta)
+
+Veja também nossa lista de [contribuidores](https://github.com/acesso-io/eximage/graphs/contributors) que participaram deste projeto.
+
+
+Feito com ♥ by AcessoDigital :wave: [Visita nosso Site!](https://acesso.io)
