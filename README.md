@@ -13,7 +13,7 @@ Este projeto visa facilitar a leitura, manipulação e verificação dos metadad
 
 ### Pré requisitos
 
-- Android Studio - IDE oficial de desenvolvimento Google. Versão 9 ou superior
+- Android Studio - IDE oficial de desenvolvimento Google.
 - Maven Jitpack - Gerenciador de bibiotecas para a IDE.
 
 ### Instalação
