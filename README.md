@@ -48,7 +48,7 @@ Você já consegue utilizar a nossa biblioteca.
 
 ## Utilização
 
-Todas os métodos podem ser acessados pela classe: 
+Todos os métodos podem ser acessados pela classe: 
 
 ```java
 br.com.acessodigital.eximage.Eximage
@@ -56,7 +56,7 @@ br.com.acessodigital.eximage.Eximage
  
 ## Versionamento
 
-Nós usamos [Github](https://github.com/) para versionar. Para as versões disponíveis, veja as [tags do repositório](https://github.com/acesso-io/eximage/releases). 
+Nós usamos [Github](https://github.com/) para versionamento e você pode acompanhar a evolução da biblioteca [aqui](https://github.com/acesso-io/eximage/releases). 
 
 ## Autores
 
