@@ -5,12 +5,11 @@ Este projeto visa facilitar a leitura, manipulação e verificação dos metadad
  - Extração de dados exif da imagem
  - Informações de orientação (pelo buffer do preview e captura)
  - Conversão de Bitmap para JPEG
- - Rotacionar Bitmap
- - Espelhar Bitmap
- - Converter de YUV420 (formato nativo do buffer da câmera) para JPEG
- - Converter de NV21 para JPEG
- - Converter de YUV420  para NV21
- - Rotacionar o YUV420 em 90, 180 e 270 graus
+ - Rotação da imagem em 90°, 180° e 270° (Bitmap, JPEG, YUV, NV21)
+ - Espelhamento (flipx)
+ - Conversão de YUV420 (formato nativo do buffer da câmera) para JPEG
+ - Conversão de NV21 para JPEG
+ - Conversão de YUV420  para NV21
 
 ### Pré requisitos
 
